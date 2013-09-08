@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/dbzDonate"
+        android:icon="@drawable/db_7s"
+        android:title="HELP THIS APP"/>
+    <item
+        android:id="@+id/dbzAbout"
+        android:icon="@drawable/db_5s"
+        android:title="Info"/>
+    <item
+        android:id="@+id/dbzOptions"
+        android:icon="@drawable/db_2s"
+        android:title="Prefs"/>
+    <item
+        android:id="@+id/dbzQuit"
+        android:icon="@drawable/db_3s"
+        android:title="Quit"/>
+    <item
+        android:id="@+id/dbzR"
+        android:title="Reload"/>
+
+</menu>
